@@ -126,3 +126,16 @@ p{
     width: 15%;
     margin: 20px;
 }
+
+
+
+/* PRICING SECTION */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
